@@ -30,3 +30,6 @@ function rude(props) {
 
 // Render the App component into the root element
 document.getElementById('root').innerHTML = App();
+
+
+//ttt
